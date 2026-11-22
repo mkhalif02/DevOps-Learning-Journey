@@ -1,6 +1,8 @@
 # DevOps Learning Journey
 
-Your personal repository for tracking progress through the CoderCo DevOps curriculum.
+This is my personal repository for tracking my progress through the CoderCo DevOps curriculum. It follows a structured path from fundamentals to production-ready skills: Linux, Bash scripting, Git version control and networking, then Docker containers, AWS cloud, Infrastructure as Code with Terraform, CI/CD pipelines and Kubernetes orchestration. Each module contains my notes, hands-on exercises, scripts andprojects, so the repo serves as both a learning log and a practical portfolio I can refer back to.
+
+
 
 
 ## Repository Structure
