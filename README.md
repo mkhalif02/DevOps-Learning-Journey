@@ -3,10 +3,10 @@
 This is my personal repository for tracking my progress through the CoderCo DevOps curriculum. It follows a structured path from fundamentals to production-ready skills Each module contains my notes, hands-on exercises, scripts and projects, so the repo serves as both a learning log and a practical portfolio.
 
 
+## 📁 Repository Structure
 
-## Repository Structure
-
-#### devops-learning/
+```text
+devops-learning/
 │
 ├── 01-linux/           # Linux Fundamentals
 ├── 02-bash/            # Bash Scripting
@@ -19,6 +19,7 @@ This is my personal repository for tracking my progress through the CoderCo DevO
 ├── 09-kubernetes/      # Container Orchestration
 │
 └── challenges/         # Additional Hands-On Challenges
+```
 
 
 
