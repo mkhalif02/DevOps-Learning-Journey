@@ -2,9 +2,11 @@
 
 This is my personal repository for tracking my progress through the CoderCo DevOps curriculum. It follows a structured path from fundamentals to production-ready skills Each module contains my notes, hands-on exercises, scripts and projects, so the repo serves as both a learning log and a practical portfolio.
 
+
+
 ## Repository Structure
 
-devops-learning/
+#### devops-learning/
 │
 ├── 01-linux/           # Linux Fundamentals
 ├── 02-bash/            # Bash Scripting
@@ -18,13 +20,19 @@ devops-learning/
 │
 └── challenges/         # Additional Hands-On Challenges
 
-📂 Module Structure
+
+
+
+#### 📂 Module Structure
 
 Each module is organised into the following folders:
 
 📝 notes/ – Learning notes and key concepts covered in the module.
 🧪 labs/ – Completed hands-on exercises used to practise what I've learned.
 🚀 projects/ – Practical projects where I apply my knowledge to real-world scenarios.
+
+
+
 
 ## Progress Tracker
 
